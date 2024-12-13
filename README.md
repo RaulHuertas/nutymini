@@ -1,6 +1,6 @@
 # Nuty Mini. Inspired by the CorneV4, powered by XIAO-BLE and KMK
 
-Welcome to **MKPico**, a framework designed for creating custom keyboard firmware using the Raspberry Pi Pico microcontroller. MKPico is built using **FreeRTOS**, **Pico SDK** and **tinyUSB**.
+
 
 ![Project Image](images/_DSC0449.jpg)
 <center>Nuty Mini (42 keys split mechanical keyboard)</center>
