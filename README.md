@@ -3,7 +3,7 @@
 
 
 ![Project Image](images/_DSC0449.jpg)
-<center>Nuty Mini (42 keys split mechanical keyboard)</center>
+<center>Nuty Mini (46 keys split mechanical keyboard)</center>
 
 ## Features
 
