@@ -31,4 +31,5 @@
 - **`TentedCase/`**:
   - A 15 degress tented case, with space for the battery.Fusion 360 file included
 
+If you are in Perú, I can build it for you. Contact me at my 3D printing service NutyLABS at Instagram: [NutyLabs](https://www.instagram.com/nutylabs/)
 
